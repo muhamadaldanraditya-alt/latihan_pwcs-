@@ -1,0 +1,25 @@
+table, th, td {
+    width: 600px;
+    height: 50px;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+    text-align: center;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+.id{
+    background-color: rgb(133, 16, 16);
+}
+table, th, td {
+  border: 1px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+}
+
+body{
+    text-decoration: solid;
+    text-shadow: cornflowerblue;
+}
